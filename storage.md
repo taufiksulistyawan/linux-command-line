@@ -15,3 +15,21 @@ df -h
 ```bash
 du -sh /path/ke/direktori
 ```
+
+3. **Membersihkan APT cache (Debian/Ubuntu & turunannya)**
+
+```bash
+sudo apt-get clean
+sudo apt-get autoclean
+```
+
+* `clean` → hapus semua file .deb di cache
+* `autoclean` → hapus hanya paket usang
+
+---
+
+4. **Membersihkan Thumbnail Cache (desktop Linux seperti Ubuntu, Mint, dll)**
+
+```bash
+rm -rf ~/.cache/thumbnails/*
+```
