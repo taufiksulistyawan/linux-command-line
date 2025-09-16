@@ -21,10 +21,10 @@ Untuk mematikan Linux melalui **SSH**, caranya sederhana, asal kamu punya akses 
      ```bash
      sudo shutdown -h +10
      ```
-   * Shutdown pada jam tertentu (misalnya 23:00):
+   * Shutdown pada jam tertentu (misalnya 17:45):
 
      ```bash
-     sudo shutdown -h 23:00
+     sudo shutdown -h 17:45
      ```
 
 4. **Restart Linux** (kalau mau reboot, bukan mati total):
