@@ -43,7 +43,8 @@ rm -rf /srv/render_backup/Aditya
 * `-r` → recursive, hapus semua isi di dalam folder
 * `-f` → force, supaya tidak tanya konfirmasi
 
-6. **Untuk cek ukuran folder, kamu bisa pakai perintah `du` (disk usage). Contohnya:**
+
+**Untuk cek ukuran folder, kamu bisa pakai perintah `du` (disk usage). Contohnya:**
 
 1. **Melihat ukuran masing-masing subfolder**
 
