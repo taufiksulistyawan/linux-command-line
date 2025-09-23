@@ -34,7 +34,7 @@ sudo apt-get autoclean
 rm -rf ~/.cache/thumbnails/*
 ```
 
-Perintah Hapus Folder:
+5. **Perintah Hapus Folder:**
 
 ```bash
 rm -rf /srv/render_backup/Aditya
@@ -43,7 +43,7 @@ rm -rf /srv/render_backup/Aditya
 * `-r` → recursive, hapus semua isi di dalam folder
 * `-f` → force, supaya tidak tanya konfirmasi
 
-Untuk cek ukuran folder, kamu bisa pakai perintah `du` (disk usage). Contohnya:
+6. **Untuk cek ukuran folder, kamu bisa pakai perintah `du` (disk usage). Contohnya:**
 
 1. **Melihat ukuran masing-masing subfolder**
 
